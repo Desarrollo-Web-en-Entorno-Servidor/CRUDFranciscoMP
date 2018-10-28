@@ -33,5 +33,10 @@ and open the template in the editor.
     font-family: 'PT Sans', sans-serif;
     font-size: 24px;
     text-align: center;
-    border-bottom: solid blue;
+    
+}
+.Lista{
+    border: 2px solid blue;
+    margin-left: 100px;
+    margin: 0 250px
 }

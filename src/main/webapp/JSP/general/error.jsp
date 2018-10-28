@@ -1,6 +1,6 @@
 <%-- 
-    Document   : leer
-    Created on : 23-oct-2018, 13:39:55
+    Document   : error
+    Created on : 28-oct-2018, 21:34:24
     Author     : FranciscoAntonio
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <p align="center"><a href="../../index.html">Menú Inicial</a></p>"
+        <h1>Hello World!</h1>
     </body>
 </html>
